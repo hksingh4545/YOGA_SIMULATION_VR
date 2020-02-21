@@ -53,12 +53,16 @@ To Do:
 ---------------
 See [here](ToDo.md) to get a list of much needed features, some of which we are working on. We will try to keep this list up to date.
 
+![usage](./image.gif)
+
+
 Documentation:
 ---------------
 
 The documentation can be found [here](https://documentation.imhotep-medical.org/). This is kept up to date with the current master branch.
 
 Alternatively, generate the documentation yourself with the _doxygen_ program. There is a Doxyfile included in the root of the project.
+
 
 
 
